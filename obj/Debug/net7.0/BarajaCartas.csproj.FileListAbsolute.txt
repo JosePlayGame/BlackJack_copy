@@ -1,0 +1,56 @@
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\bin\Debug\net7.0\BarajaCartas.exe
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\bin\Debug\net7.0\BarajaCartas.deps.json
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\bin\Debug\net7.0\BarajaCartas.runtimeconfig.json
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\bin\Debug\net7.0\BarajaCartas.dll
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\bin\Debug\net7.0\BarajaCartas.pdb
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\obj\Debug\net7.0\BarajaCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\obj\Debug\net7.0\BarajaCartas.AssemblyInfoInputs.cache
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\obj\Debug\net7.0\BarajaCartas.AssemblyInfo.cs
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\obj\Debug\net7.0\BarajaCartas.csproj.CoreCompileInputs.cache
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\obj\Debug\net7.0\BarajaCartas.dll
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\obj\Debug\net7.0\refint\BarajaCartas.dll
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\obj\Debug\net7.0\BarajaCartas.pdb
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\obj\Debug\net7.0\BarajaCartas.genruntimeconfig.cache
+C:\Users\aitor\Desktop\dam\PROG\EstudiarExamen\BarajaCartas\obj\Debug\net7.0\ref\BarajaCartas.dll
+C:\Users\aitor 1\Downloads\BarajaCartas\bin\Debug\net7.0\BarajaCartas.exe
+C:\Users\aitor 1\Downloads\BarajaCartas\bin\Debug\net7.0\BarajaCartas.deps.json
+C:\Users\aitor 1\Downloads\BarajaCartas\bin\Debug\net7.0\BarajaCartas.runtimeconfig.json
+C:\Users\aitor 1\Downloads\BarajaCartas\bin\Debug\net7.0\BarajaCartas.dll
+C:\Users\aitor 1\Downloads\BarajaCartas\bin\Debug\net7.0\BarajaCartas.pdb
+C:\Users\aitor 1\Downloads\BarajaCartas\obj\Debug\net7.0\BarajaCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aitor 1\Downloads\BarajaCartas\obj\Debug\net7.0\BarajaCartas.AssemblyInfoInputs.cache
+C:\Users\aitor 1\Downloads\BarajaCartas\obj\Debug\net7.0\BarajaCartas.AssemblyInfo.cs
+C:\Users\aitor 1\Downloads\BarajaCartas\obj\Debug\net7.0\BarajaCartas.csproj.CoreCompileInputs.cache
+C:\Users\aitor 1\Downloads\BarajaCartas\obj\Debug\net7.0\BarajaCartas.dll
+C:\Users\aitor 1\Downloads\BarajaCartas\obj\Debug\net7.0\refint\BarajaCartas.dll
+C:\Users\aitor 1\Downloads\BarajaCartas\obj\Debug\net7.0\BarajaCartas.pdb
+C:\Users\aitor 1\Downloads\BarajaCartas\obj\Debug\net7.0\BarajaCartas.genruntimeconfig.cache
+C:\Users\aitor 1\Downloads\BarajaCartas\obj\Debug\net7.0\ref\BarajaCartas.dll
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\bin\Debug\net7.0\BarajaCartas.exe
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\bin\Debug\net7.0\BarajaCartas.deps.json
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\bin\Debug\net7.0\BarajaCartas.runtimeconfig.json
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\bin\Debug\net7.0\BarajaCartas.dll
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\bin\Debug\net7.0\BarajaCartas.pdb
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.AssemblyInfoInputs.cache
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.AssemblyInfo.cs
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.csproj.CoreCompileInputs.cache
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.dll
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\obj\Debug\net7.0\refint\BarajaCartas.dll
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.pdb
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.genruntimeconfig.cache
+C:\Users\aitor 1\Desktop\DAM\PROG\Proyectos\BarajaCartas\obj\Debug\net7.0\ref\BarajaCartas.dll
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\bin\Debug\net7.0\BarajaCartas.exe
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\bin\Debug\net7.0\BarajaCartas.deps.json
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\bin\Debug\net7.0\BarajaCartas.runtimeconfig.json
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\bin\Debug\net7.0\BarajaCartas.dll
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\bin\Debug\net7.0\BarajaCartas.pdb
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.AssemblyInfoInputs.cache
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.AssemblyInfo.cs
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.csproj.CoreCompileInputs.cache
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.dll
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\obj\Debug\net7.0\refint\BarajaCartas.dll
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.pdb
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\obj\Debug\net7.0\BarajaCartas.genruntimeconfig.cache
+C:\Users\aitor 1\Desktop\DAM\PROG\2º\Proyectos\BarajaCartas\obj\Debug\net7.0\ref\BarajaCartas.dll
