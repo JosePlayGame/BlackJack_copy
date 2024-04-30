@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RWJmNGjXLLF4CX8YIDNYHbXXCc9NTaRG9yesvwlxOSUB8OuGZnaatSZ0zZWGkY4DPD0hS14qdMqzvITrNfohzw==",
+  "dgSpecHash": "5MWxpsJtBIke2E6C2E/0D+1X1ZvOfIj3PKja1CbVfBBUUOIG2Zbk/0babOmcv9lKfxVpOr8JKe/oc+DzEfwE6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aitor 1\\Desktop\\DAM\\PROG\\2º\\Proyectos\\BarajaCartas\\BarajaCartas.csproj",
+  "projectFilePath": "C:\\Users\\arman\\OneDrive\\Escritorio\\Endes\\ProyectoCompartido\\blackjack\\BarajaCartas.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aitor 1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\aitor 1\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\aitor 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\aitor 1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\arman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aitor 1\\Desktop\\DAM\\PROG\\2º\\Proyectos\\BarajaCartas\\BarajaCartas.csproj": {}
+    "C:\\Users\\arman\\OneDrive\\Escritorio\\Endes\\ProyectoCompartido\\blackjack\\BarajaCartas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aitor 1\\Desktop\\DAM\\PROG\\2º\\Proyectos\\BarajaCartas\\BarajaCartas.csproj": {
+    "C:\\Users\\arman\\OneDrive\\Escritorio\\Endes\\ProyectoCompartido\\blackjack\\BarajaCartas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aitor 1\\Desktop\\DAM\\PROG\\2º\\Proyectos\\BarajaCartas\\BarajaCartas.csproj",
+        "projectUniqueName": "C:\\Users\\arman\\OneDrive\\Escritorio\\Endes\\ProyectoCompartido\\blackjack\\BarajaCartas.csproj",
         "projectName": "BarajaCartas",
-        "projectPath": "C:\\Users\\aitor 1\\Desktop\\DAM\\PROG\\2º\\Proyectos\\BarajaCartas\\BarajaCartas.csproj",
-        "packagesPath": "C:\\Users\\aitor 1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aitor 1\\Desktop\\DAM\\PROG\\2º\\Proyectos\\BarajaCartas\\obj\\",
+        "projectPath": "C:\\Users\\arman\\OneDrive\\Escritorio\\Endes\\ProyectoCompartido\\blackjack\\BarajaCartas.csproj",
+        "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arman\\OneDrive\\Escritorio\\Endes\\ProyectoCompartido\\blackjack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aitor 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\arman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,19 +58,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
+              "version": "[7.0.17, 7.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -73,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
